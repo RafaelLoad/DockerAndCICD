@@ -1,0 +1,15 @@
+C:\Users\55119\Documents\01 - PROJETOS\CicdAndDocker\bin\Debug\net8.0\CicdAndDocker.exe
+C:\Users\55119\Documents\01 - PROJETOS\CicdAndDocker\bin\Debug\net8.0\CicdAndDocker.deps.json
+C:\Users\55119\Documents\01 - PROJETOS\CicdAndDocker\bin\Debug\net8.0\CicdAndDocker.runtimeconfig.json
+C:\Users\55119\Documents\01 - PROJETOS\CicdAndDocker\bin\Debug\net8.0\CicdAndDocker.dll
+C:\Users\55119\Documents\01 - PROJETOS\CicdAndDocker\bin\Debug\net8.0\CicdAndDocker.pdb
+C:\Users\55119\Documents\01 - PROJETOS\CicdAndDocker\obj\Debug\net8.0\CicdAndDocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Documents\01 - PROJETOS\CicdAndDocker\obj\Debug\net8.0\CicdAndDocker.AssemblyInfoInputs.cache
+C:\Users\55119\Documents\01 - PROJETOS\CicdAndDocker\obj\Debug\net8.0\CicdAndDocker.AssemblyInfo.cs
+C:\Users\55119\Documents\01 - PROJETOS\CicdAndDocker\obj\Debug\net8.0\CicdAndDocker.csproj.CoreCompileInputs.cache
+C:\Users\55119\Documents\01 - PROJETOS\CicdAndDocker\obj\Debug\net8.0\CicdAndDocker.sourcelink.json
+C:\Users\55119\Documents\01 - PROJETOS\CicdAndDocker\obj\Debug\net8.0\CicdAndDocker.dll
+C:\Users\55119\Documents\01 - PROJETOS\CicdAndDocker\obj\Debug\net8.0\refint\CicdAndDocker.dll
+C:\Users\55119\Documents\01 - PROJETOS\CicdAndDocker\obj\Debug\net8.0\CicdAndDocker.pdb
+C:\Users\55119\Documents\01 - PROJETOS\CicdAndDocker\obj\Debug\net8.0\CicdAndDocker.genruntimeconfig.cache
+C:\Users\55119\Documents\01 - PROJETOS\CicdAndDocker\obj\Debug\net8.0\ref\CicdAndDocker.dll
