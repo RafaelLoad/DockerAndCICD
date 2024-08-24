@@ -22,6 +22,6 @@ jobs:
         uses: docker/build-push-action@v6.7.0
         with:
            context: .
-           tags: 'latest'
+           tags: 'rafaelload/cicdanddocker:latest'
            push: true 
                 
